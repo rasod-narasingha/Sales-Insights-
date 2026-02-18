@@ -60,7 +60,7 @@ Insights generated for business decisions
 
 📸 Dashboard Preview
 <p align="center">
-  <img src="domp.png" width="800">
+  <img src="sales final.png" width="800">
 </p>
 
 
